@@ -1,5 +1,2 @@
-![](selfselfself.png)
+![](sleep.png)
 
-## hey, i'm ohms
-
-i do experimentals & skidding
