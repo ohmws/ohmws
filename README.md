@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="sleep.png" width="100%" />
+<img src="sleep.png"/>
 
 <br><br>
 
 # ohms
 
-### experimenting . prof skidder
+experimenting . prof skidder
 
 <br>
 
