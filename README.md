@@ -6,6 +6,8 @@
 
 # ohms
 
+<samp>
+
 experimenting . prof skidder
 
 <br>
